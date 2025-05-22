@@ -14,3 +14,5 @@ Step 2: Add the dependency
 	dependencies {
 	        implementation("com.github.Nirdhant:ToogleButton:v1.0.0")
 	}
+
+ [![](https://jitpack.io/v/Nirdhant/ToogleButton.svg)](https://jitpack.io/#Nirdhant/ToogleButton)
