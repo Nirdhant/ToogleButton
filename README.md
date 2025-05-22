@@ -1,4 +1,4 @@
-To use Toogle Button in an android project :
+To use Toogle Button in an android project :      															 [![](https://jitpack.io/v/Nirdhant/ToogleButton.svg)](https://jitpack.io/#Nirdhant/ToogleButton)
 
 Step 1: Add it in your settings.gradle.kts at the end of repositories
 
@@ -15,4 +15,4 @@ Step 2: Add the dependency
 	        implementation("com.github.Nirdhant:ToogleButton:v1.0.0")
 	}
 
- [![](https://jitpack.io/v/Nirdhant/ToogleButton.svg)](https://jitpack.io/#Nirdhant/ToogleButton)
+
