@@ -15,4 +15,6 @@ Step 2: Add the dependency
 	        implementation("com.github.Nirdhant:ToogleButton:v1.0.0")
 	}
 
+ Step 3: Call the function Theme in composable, pass the parameters and implement the logic.
+
 [![](https://jitpack.io/v/Nirdhant/ToogleButton.svg)](https://jitpack.io/#Nirdhant/ToogleButton)
