@@ -1,4 +1,5 @@
 To use Toogle Button in an android project :
+
 Step 1: Add it in your settings.gradle.kts at the end of repositories
 
 	dependencyResolutionManagement {
